@@ -7,27 +7,27 @@ module.exports = {
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Chris Marabate', // for example - 'Ivan Ganev'
+    authorDescription: `I don't fool around!`, // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:cmarabate@gmail.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/cmarabate`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/cmarabate`
       },
       {
         icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        url: `https://www.npmjs.com/~cmarabate`
       }
     ]
   },

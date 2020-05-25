@@ -28,6 +28,10 @@ module.exports = {
       {
         icon: `node-js`,
         url: `https://www.npmjs.com/~cmarabate`
+      },
+      {
+        icon: `facebook`,
+        url: `https://www.facebook.com/ChristopherMarabate/`
       }
     ]
   },
